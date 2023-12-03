@@ -10,7 +10,7 @@ Woher fährst du? is a fun mobile application designed to help users improve the
 
 ## Installation
 
-- **Android:** [Download from Google Play](#) (Link to be replaced with your app's Google Play Store link)
+- **Android:** [Download from Google Play](https://play.google.com/store/apps/details?id=dev.pushka.woher_faehrst_du&pli=1) (Link to be replaced with your app's Google Play Store link)
 - **iOS:** [Download from App Store](#) (Link to be replaced with your app's App Store link)
 
 ## How to Use
